@@ -29,5 +29,13 @@
     <ClInclude Include="permutation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="anagrams.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\words.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
