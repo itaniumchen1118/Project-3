@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\anagrams.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="permutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="anagrams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

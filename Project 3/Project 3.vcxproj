@@ -129,7 +129,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\anagrams.cpp" />
+    <ClCompile Include="anagrams.cpp" />
     <ClCompile Include="permutation.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
